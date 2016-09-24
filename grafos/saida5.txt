@@ -1,0 +1,22 @@
+10
+Hidrogênio
+Hélio
+Lítio
+Berílio
+Boro
+Carbono
+Nitrogênio
+Oxigênio
+Flúor
+Néon
+21
+1 6 3
+3 7 10
+3 10 14
+4 8 28
+2 6 29
+1 5 36
+5 8 55
+2 9 68
+1 7 70
+

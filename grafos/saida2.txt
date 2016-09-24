@@ -1,0 +1,8 @@
+3
+Athos
+Porthos
+Aramis
+3
+1 3 10
+1 2 10
+
